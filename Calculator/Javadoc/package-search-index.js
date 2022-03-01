@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.afpa.calculator"},{"l":"com.afpa.calculator.controller"},{"l":"com.afpa.calculator.view"},{"l":"com.afpa.travailCalculator"},{"l":"com.afpa.travailCalculator.controller"},{"l":"com.afpa.travailCalculator.view"}];updateSearchResults();
